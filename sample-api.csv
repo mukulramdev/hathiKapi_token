@@ -1,0 +1,334 @@
+{
+    "grossAmount": 5185.82,
+    "returnAmount": 0,
+    "discountTotal": 0,
+    "directChargeTotal": 0,
+    "netAmount": 5185.82,
+    "chargeTotal": 0,
+    "taxTotal": 223.22,
+    "roundOffTotal": 0,
+    "tipTotal": 0,
+    "revenue": 5409.04,
+    "paymentTotal": 5409.04,
+    "balanceAmount": 0,
+    "costOfGoodsSold": 1234.16,
+    "marginOnNetSales": "76.2%",
+    "discounts": [],
+    "categories": [
+        {
+            "name": "BAKERY",
+            "amount": 600
+        },
+        {
+            "name": "Cold Beverages",
+            "amount": 171.43
+        },
+        {
+            "name": "Hot Beverages",
+            "amount": 3976.11
+        },
+        {
+            "name": "Others",
+            "amount": 133.35
+        },
+        {
+            "name": "Packed Snacks",
+            "amount": 114.29
+        },
+        {
+            "name": "Snacks",
+            "amount": 190.47
+        }
+    ],
+    "charges": [],
+    "taxes": [
+        {
+            "name": "CGST 2.5%",
+            "amount": 111.61
+        },
+        {
+            "name": "SGST 2.5%",
+            "amount": 111.61
+        }
+    ],
+    "tips": [],
+    "payments": [
+        {
+            "mode": "Cash",
+            "amount": 1800
+        },
+        {
+            "mode": "Credit Card",
+            "amount": 80
+        },
+        {
+            "mode": "PhonePe",
+            "amount": 2810
+        },
+        {
+            "mode": "SWIGGY",
+            "amount": 719.04
+        }
+    ],
+    "costs": [
+        {
+            "costType": "Materials",
+            "amount": 1202.29
+        },
+        {
+            "costType": "Materials Shrinkage",
+            "amount": 31.87
+        }
+    ],
+    "noOfSales": 47,
+    "avgSaleAmount": 110.34,
+    "noOfPeople": 0,
+    "avgSaleAmountPerPerson": 0,
+    "asOfTime": "2024-10-15T13:53:03+05:30",
+    "sessionSummary": [],
+    "channelSummary": [
+        {
+            "name": "Swiggy",
+            "netSaleAmount": 719.04,
+            "noOfSales": 3,
+            "paxCount": 0,
+            "directCharge": 0,
+            "indirectCharge": 0,
+            "avgSaleAmount": 239.68
+        },
+        {
+            "name": "Walk In",
+            "netSaleAmount": 4466.78,
+            "noOfSales": 44,
+            "paxCount": 0,
+            "directCharge": 0,
+            "indirectCharge": 0,
+            "avgSaleAmount": 101.52
+        }
+    ],
+    "items": [
+        {
+            "skuCode": "1010102",
+            "itemName": "Kaapi (medium)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 1371.42,
+            "itemTotalQty": 18,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 1371.42,
+            "itemTotaltaxAmount": 68.57
+        },
+        {
+            "skuCode": "92",
+            "itemName": "Packaged Drinking Water(500 Ml)",
+            "categoryName": "Others",
+            "itemNature": "Goods",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 133.35,
+            "itemTotalQty": 7,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 133.35,
+            "itemTotaltaxAmount": 6.67
+        },
+        {
+            "skuCode": "1020160",
+            "itemName": "Lemon Tea (medium)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 171.42,
+            "itemTotalQty": 2,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 171.42,
+            "itemTotaltaxAmount": 8.57
+        },
+        {
+            "skuCode": "423",
+            "itemName": "Kaapi (Staff)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 514.26,
+            "itemTotalQty": 18,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 514.26,
+            "itemTotaltaxAmount": 25.71
+        },
+        {
+            "skuCode": "1020140",
+            "itemName": "Tea (large)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 85.71,
+            "itemTotalQty": 1,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 85.71,
+            "itemTotaltaxAmount": 4.29
+        },
+        {
+            "skuCode": "2219",
+            "itemName": "Kaapi (HK Staff)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 0,
+            "itemTotalQty": 2,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 0,
+            "itemTotaltaxAmount": 0
+        },
+        {
+            "skuCode": "2131",
+            "itemName": "Savouries 200 G (Kodubale)",
+            "categoryName": "Packed Snacks",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 114.29,
+            "itemTotalQty": 1,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 114.29,
+            "itemTotaltaxAmount": 5.71
+        },
+        {
+            "skuCode": "134",
+            "itemName": "Kaapi (Serves 5)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 400,
+            "itemTotalQty": 2,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 400,
+            "itemTotaltaxAmount": 0
+        },
+        {
+            "skuCode": "3010210",
+            "itemName": "Banana Cake",
+            "categoryName": "BAKERY",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 600,
+            "itemTotalQty": 7,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 600,
+            "itemTotaltaxAmount": 30
+        },
+        {
+            "skuCode": "135",
+            "itemName": "Bella Kaapi (medium)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 514.27,
+            "itemTotalQty": 6,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 514.27,
+            "itemTotaltaxAmount": 25.71
+        },
+        {
+            "skuCode": "1020139",
+            "itemName": "Tea (medium)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 533.33,
+            "itemTotalQty": 7,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 533.33,
+            "itemTotaltaxAmount": 26.67
+        },
+        {
+            "skuCode": "165",
+            "itemName": "Ginger Tea (medium)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 85.71,
+            "itemTotalQty": 1,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 85.71,
+            "itemTotaltaxAmount": 4.29
+        },
+        {
+            "skuCode": "1584",
+            "itemName": "Chatpata Atta Noodles",
+            "categoryName": "Snacks",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 104.76,
+            "itemTotalQty": 1,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 104.76,
+            "itemTotaltaxAmount": 0
+        },
+        {
+            "skuCode": "2790",
+            "itemName": "Bottled Cold Kaapi 300 ml (Plain)",
+            "categoryName": "Cold Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 171.43,
+            "itemTotalQty": 1,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 171.43,
+            "itemTotaltaxAmount": 8.57
+        },
+        {
+            "skuCode": "1010103",
+            "itemName": "Kaapi (large)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 171.42,
+            "itemTotalQty": 2,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 171.42,
+            "itemTotaltaxAmount": 8.57
+        },
+        {
+            "skuCode": "122",
+            "itemName": "Poha",
+            "categoryName": "Snacks",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 85.71,
+            "itemTotalQty": 1,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 85.71,
+            "itemTotaltaxAmount": 0
+        },
+        {
+            "skuCode": "924",
+            "itemName": "Kaapi (Serves 2)",
+            "categoryName": "Hot Beverages",
+            "itemNature": "Service",
+            "type": "Item",
+            "measuringUnit": "ea",
+            "itemTotalNetAmount": 128.57,
+            "itemTotalQty": 1,
+            "itemTotalDiscountAmount": 0,
+            "itemTotalgrossAmount": 128.57,
+            "itemTotaltaxAmount": 0
+        }
+    ],
+    "accounts": [],
+    "accountsWiseChannels": []
+}

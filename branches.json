@@ -1,0 +1,26 @@
+[
+  {
+    "branchName": "5th Avenue Mall",
+    "branchCode": "KA0202149",
+    "channels": [
+      { "name": "Swiggy" },
+      { "name": "Walk In" },
+      { "name": "Zomato" }
+    ],
+    "businessName": "HATTI FOOD AND BEVERAGES PRIVATE LIMITED",
+    "status": "Active",
+    "priceBook": "5th Avenue",
+    "taxArea": "Regular",
+    "address": {
+      "addressLine": "Ground Floor, Brigade Rd, Shanthala Nagar, Ashok Nagar,",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560001",
+      "longitude": 77.60727399999996,
+      "latitude": 12.973197403658432
+    },
+    "branchLabels": "Malls",
+    "taxId": "29AADCH5732N1Z4"
+  }
+]

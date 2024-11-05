@@ -1,0 +1,77 @@
+Branches: 5th Avenue Mall Timeline: 14-Oct-2024
+Description 5th Avenue Mall
+Gross Sales (Net Sales-Direct Charges+Discounts+Returns) 5185.82
+Sales Return 0
+Discounts 0
+Packaging charges (Direct Charges) 0
+Net Sales 5185.82                                ---->grossAmount
+Service charges (Indirect Charges) 0
+Taxes 223.22                                     ---->taxTotal
+Rounding 0
+Tip 0
+ No. of people (PAX) 
+Total Gross Revenue 5409.04
+Payment Balance 0
+ 
+Cost of Goods Sold 1234.16
+ Materials 1202.29
+ Materials Shrinkage 31.87
+Margin on Net Sales 76.2%
+ 
+Payment Summary 5409.04
+ Cash 1800
+ Credit Card 80
+ PhonePe 2810
+ SWIGGY 719.04
+ 
+ Charge Total 0
+ 
+Tax Summary 223.22
+ CGST 2.5% 111.61
+ CGST 2.5% TaxableAmount 4466.61
+ SGST 2.5% 111.61
+ SGST 2.5% TaxableAmount 4466.61
+ 
+Account Summary - Overall 0
+ Packaging charges (Direct Charges) 0
+ 
+Transactions Summary 
+ No. of Transactions 47
+ Avg Sale Per Transaction 110.34
+ No. of people (PAX) 
+ Avg Sale Per Person 0
+ Resource Capacity 
+ Capacity Utilization Ratio 
+ 
+Category Summary 5185.65
+ BAKERY 600
+ Cold Beverages 171.43
+ Hot Beverages 3976.11
+ Others 133.35
+ Packed Snacks 114.29
+ Snacks 190.47
+ 
+Channel Summary 
+ Swiggy 
+  Net Sales 719.04
+  No. of Transactions 3
+  Avg Sale Per Transaction 239.68
+  Packaging charges (Direct Charges) 
+ Walk In 
+  Net Sales 4466.78
+  No. of Transactions 44
+  Avg Sale Per Transaction 101.52
+  Packaging charges (Direct Charges) 
+ 
+Source Summary 
+ POS 
+  Net Sales 5185.82
+  No. of Transactions 47
+  Avg Sale Per Transaction 110.34
+ 
+Channel Label Summary 
+ Walk In 
+  Net Sales 4466.78
+  No. of Transactions 44
+  Avg Sale Per Transaction 101.52
+  Packaging charges (Direct Charges) 0
